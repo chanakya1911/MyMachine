@@ -20,7 +20,9 @@ Get all the algorithms you need and build the algorithms you can to help.
 | ------------- |:-------------:| -----:|------:|
 |  Linear Regression | ![alt text](/img/tick.png)         | 		|		|
 |  Gradient Descent |               |	    |		|
+|  Naive Bayes  |               |	    |		|
 |  SVM  |				| 		|		|
+|  Random Forest Regression  |				| 		|		|
 |  Logistic Regression	|	![alt text](/img/tick.png)			| 		|		|
 |  K Means	|	![alt text](/img/tick.png)			| 		|		|
 |  Perceptron Classifier	|	![alt text](/img/tick.png)			| 		|		|
