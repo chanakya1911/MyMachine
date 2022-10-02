@@ -15,9 +15,10 @@ Connect with other students taking the same course and create awesome stuff!
 
 
 ###  curated list of Standard Courses:
-| Name   |   Institute      |  Complete  |Under Construction|
+| Name   |   Institute/Instructor      |  Complete  |Under Construction|
 | ------------- |:-------------:| -----:|------:|
 |  Introduction to Machine Learning |      Stanford_Coursera         | 		|	![alt text](/img/tick.png)	|
+|  Machine Learning A-Z™: Hands-On Python & R In Data Science |      Kirill Eremenko         | 		|	![alt text](/img/tick.png)	|
 |               |               |	    |		|
 |               |				| 		|		|
 
